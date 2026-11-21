@@ -1,0 +1,4 @@
+Dependencies for Project 'main', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C7FF5E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (..\PN_ARM-main\6_LPC213x.s)(0x6AF98D2D)()
+F (..\..\Downloads\5_kolokwium_skeleton.s)(0x6AC4001E)()

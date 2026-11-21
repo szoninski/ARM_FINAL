@@ -1,0 +1,1350 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\szoninski\Desktop\ARM\ARM.uvproj
+Project File Date:  11/15/2026
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=416 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=416 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(60): warning: A1581W: Added 2 bytes of padding at address 0x82
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(65): warning: A1581W: Added 2 bytes of padding at address 0x8e
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=440 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=440 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(64): warning: A1581W: Added 2 bytes of padding at address 0x8e
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=440 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0xa2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=464 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(72): warning: A1581W: Added 2 bytes of padding at address 0xa6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=468 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(72): warning: A1581W: Added 2 bytes of padding at address 0xa6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=468 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(75): warning: A1581W: Added 2 bytes of padding at address 0xb2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=480 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(68): warning: A1581W: Added 2 bytes of padding at address 0x9a
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=452 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(16): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x9a
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(75): warning: A1581W: Added 2 bytes of padding at address 0xb2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=480 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(77): warning: A1581W: Added 2 bytes of padding at address 0xba
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=488 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0xa2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=464 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(26): error: A1647E: Bad register name symbol, expected Integer register
+main.s(27): error: A1647E: Bad register name symbol, expected Integer register
+main.s(28): error: A1647E: Bad register name symbol, expected Integer register
+main.s(29): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 4 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(14): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0xa2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=464 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(75): warning: A1581W: Added 2 bytes of padding at address 0xa2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=464 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(78): warning: A1581W: Added 2 bytes of padding at address 0xae
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=476 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(84): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(83): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(83): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(100): warning: A1581W: Added 2 bytes of padding at address 0xfe
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=556 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(99): warning: A1581W: Added 2 bytes of padding at address 0xfe
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=556 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(111): warning: A1581W: Added 2 bytes of padding at address 0x112
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=576 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(99): warning: A1581W: Added 2 bytes of padding at address 0xfe
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=556 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\ARM.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(106): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(106): warning: A1581W: Added 2 bytes of padding at address 0x102
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=560 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(106): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(27): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(99): warning: A1581W: Added 2 bytes of padding at address 0xee
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=532 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(106): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(12): error: A1163E: Unknown opcode DIGIT_0 , expecting opcode or Macro
+main.s(13): error: A1163E: Unknown opcode DIGIT_1 , expecting opcode or Macro
+main.s(14): error: A1163E: Unknown opcode DIGIT_2 , expecting opcode or Macro
+main.s(15): error: A1163E: Unknown opcode DIGIT_3 , expecting opcode or Macro
+main.s(16): error: A1163E: Unknown opcode CURRENT_DIGIT , expecting opcode or Macro
+main.s(17): error: A1163E: Unknown opcode CYCLES , expecting opcode or Macro
+main.s(21): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(28): error: A1647E: Bad register name symbol, expected Integer register
+main.s(29): error: A1647E: Bad register name symbol, expected Integer register
+main.s(30): error: A1647E: Bad register name symbol, expected Integer register
+main.s(31): error: A1647E: Bad register name symbol, expected Integer register
+main.s(32): error: A1647E: Bad register name symbol, expected Integer register
+main.s(33): error: A1647E: Bad register name symbol, expected Integer register
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1482E: Shift option out of range, allowable values are from 1 to 32
+main.s(50): error: A1647E: Bad register name symbol, expected Integer register
+main.s(51): warning: A1865W: '#' not seen before constant expression
+main.s(52): error: A1647E: Bad register name symbol, expected Integer register
+main.s(53): warning: A1865W: '#' not seen before constant expression
+main.s(54): error: A1647E: Bad register name symbol, expected Integer register
+main.s(55): warning: A1865W: '#' not seen before constant expression
+main.s(56): error: A1647E: Bad register name symbol, expected Integer register
+main.s(57): warning: A1865W: '#' not seen before constant expression
+main.s(73): error: A1647E: Bad register name symbol, expected Integer register
+main.s(74): error: A1647E: Bad register name symbol, expected Integer register
+main.s(75): error: A1647E: Bad register name symbol, expected Integer register
+main.s(79): error: A1647E: Bad register name symbol, expected Integer register
+main.s(81): error: A1647E: Bad register name symbol, expected Integer register
+main.s(83): error: A1647E: Bad register name symbol, expected Integer register
+main.s(84): error: A1647E: Bad register name symbol, expected Integer register
+main.s(85): error: A1647E: Bad register name symbol, expected Integer register
+main.s(86): error: A1647E: Bad register name symbol, expected Integer register
+main.s(88): error: A1647E: Bad register name symbol, expected Integer register
+main.s(89): error: A1647E: Bad register name symbol, expected Integer register
+main.s(90): error: A1647E: Bad register name symbol, expected Integer register
+main.s(92): error: A1647E: Bad register name symbol, expected Integer register
+main.s(93): error: A1647E: Bad register name symbol, expected Integer register
+main.s(94): error: A1647E: Bad register name symbol, expected Integer register
+main.s(96): error: A1647E: Bad register name symbol, expected Integer register
+main.s(97): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 34 Errors, 6 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(12): error: A1163E: Unknown opcode DIGIT_0 , expecting opcode or Macro
+main.s(13): error: A1163E: Unknown opcode DIGIT_1 , expecting opcode or Macro
+main.s(14): error: A1163E: Unknown opcode DIGIT_2 , expecting opcode or Macro
+main.s(15): error: A1163E: Unknown opcode DIGIT_3 , expecting opcode or Macro
+main.s(16): error: A1163E: Unknown opcode CURRENT_DIGIT , expecting opcode or Macro
+main.s(17): error: A1163E: Unknown opcode CYCLES , expecting opcode or Macro
+main.s(21): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(28): error: A1647E: Bad register name symbol, expected Integer register
+main.s(29): error: A1647E: Bad register name symbol, expected Integer register
+main.s(30): error: A1647E: Bad register name symbol, expected Integer register
+main.s(31): error: A1647E: Bad register name symbol, expected Integer register
+main.s(32): error: A1647E: Bad register name symbol, expected Integer register
+main.s(33): error: A1647E: Bad register name symbol, expected Integer register
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1482E: Shift option out of range, allowable values are from 1 to 32
+main.s(50): error: A1647E: Bad register name symbol, expected Integer register
+main.s(51): warning: A1865W: '#' not seen before constant expression
+main.s(52): error: A1647E: Bad register name symbol, expected Integer register
+main.s(53): warning: A1865W: '#' not seen before constant expression
+main.s(54): error: A1647E: Bad register name symbol, expected Integer register
+main.s(55): warning: A1865W: '#' not seen before constant expression
+main.s(56): error: A1647E: Bad register name symbol, expected Integer register
+main.s(57): warning: A1865W: '#' not seen before constant expression
+main.s(73): error: A1647E: Bad register name symbol, expected Integer register
+main.s(74): error: A1647E: Bad register name symbol, expected Integer register
+main.s(75): error: A1647E: Bad register name symbol, expected Integer register
+main.s(79): error: A1647E: Bad register name symbol, expected Integer register
+main.s(81): error: A1647E: Bad register name symbol, expected Integer register
+main.s(83): error: A1647E: Bad register name symbol, expected Integer register
+main.s(84): error: A1647E: Bad register name symbol, expected Integer register
+main.s(85): error: A1647E: Bad register name symbol, expected Integer register
+main.s(86): error: A1647E: Bad register name symbol, expected Integer register
+main.s(88): error: A1647E: Bad register name symbol, expected Integer register
+main.s(89): error: A1647E: Bad register name symbol, expected Integer register
+main.s(90): error: A1647E: Bad register name symbol, expected Integer register
+main.s(92): error: A1647E: Bad register name symbol, expected Integer register
+main.s(93): error: A1647E: Bad register name symbol, expected Integer register
+main.s(94): error: A1647E: Bad register name symbol, expected Integer register
+main.s(96): error: A1647E: Bad register name symbol, expected Integer register
+main.s(97): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 34 Errors, 6 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(12): error: A1163E: Unknown opcode DIGIT_0 , expecting opcode or Macro
+main.s(13): error: A1163E: Unknown opcode DIGIT_1 , expecting opcode or Macro
+main.s(14): error: A1163E: Unknown opcode DIGIT_2 , expecting opcode or Macro
+main.s(15): error: A1163E: Unknown opcode DIGIT_3 , expecting opcode or Macro
+main.s(16): error: A1163E: Unknown opcode CURRENT_DIGIT , expecting opcode or Macro
+main.s(17): error: A1163E: Unknown opcode CYCLES , expecting opcode or Macro
+main.s(21): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(28): error: A1647E: Bad register name symbol, expected Integer register
+main.s(29): error: A1647E: Bad register name symbol, expected Integer register
+main.s(30): error: A1647E: Bad register name symbol, expected Integer register
+main.s(31): error: A1647E: Bad register name symbol, expected Integer register
+main.s(32): error: A1647E: Bad register name symbol, expected Integer register
+main.s(33): error: A1647E: Bad register name symbol, expected Integer register
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1482E: Shift option out of range, allowable values are from 1 to 32
+main.s(50): error: A1647E: Bad register name symbol, expected Integer register
+main.s(51): warning: A1865W: '#' not seen before constant expression
+main.s(52): error: A1647E: Bad register name symbol, expected Integer register
+main.s(53): warning: A1865W: '#' not seen before constant expression
+main.s(54): error: A1647E: Bad register name symbol, expected Integer register
+main.s(55): warning: A1865W: '#' not seen before constant expression
+main.s(56): error: A1647E: Bad register name symbol, expected Integer register
+main.s(57): warning: A1865W: '#' not seen before constant expression
+main.s(73): error: A1647E: Bad register name symbol, expected Integer register
+main.s(74): error: A1647E: Bad register name symbol, expected Integer register
+main.s(75): error: A1647E: Bad register name symbol, expected Integer register
+main.s(79): error: A1647E: Bad register name symbol, expected Integer register
+main.s(81): error: A1647E: Bad register name symbol, expected Integer register
+main.s(83): error: A1647E: Bad register name symbol, expected Integer register
+main.s(84): error: A1647E: Bad register name symbol, expected Integer register
+main.s(85): error: A1647E: Bad register name symbol, expected Integer register
+main.s(86): error: A1647E: Bad register name symbol, expected Integer register
+main.s(88): error: A1647E: Bad register name symbol, expected Integer register
+main.s(89): error: A1647E: Bad register name symbol, expected Integer register
+main.s(90): error: A1647E: Bad register name symbol, expected Integer register
+main.s(92): error: A1647E: Bad register name symbol, expected Integer register
+main.s(93): error: A1647E: Bad register name symbol, expected Integer register
+main.s(94): error: A1647E: Bad register name symbol, expected Integer register
+main.s(96): error: A1647E: Bad register name symbol, expected Integer register
+main.s(97): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 34 Errors, 6 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(107): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(107): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(106): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(10): error: A1163E: Unknown opcode DIGIT_0 , expecting opcode or Macro
+main.s(11): error: A1163E: Unknown opcode DIGIT_1 , expecting opcode or Macro
+main.s(12): error: A1163E: Unknown opcode DIGIT_2 , expecting opcode or Macro
+main.s(13): error: A1163E: Unknown opcode DIGIT_3 , expecting opcode or Macro
+main.s(14): error: A1163E: Unknown opcode CURRENT_DIGIT , expecting opcode or Macro
+main.s(15): error: A1163E: Unknown opcode CYCLES , expecting opcode or Macro
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(29): error: A1647E: Bad register name symbol, expected Integer register
+main.s(30): error: A1647E: Bad register name symbol, expected Integer register
+main.s(31): error: A1647E: Bad register name symbol, expected Integer register
+main.s(32): error: A1647E: Bad register name symbol, expected Integer register
+main.s(33): error: A1647E: Bad register name symbol, expected Integer register
+main.s(34): error: A1647E: Bad register name symbol, expected Integer register
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1482E: Shift option out of range, allowable values are from 1 to 32
+main.s(50): error: A1647E: Bad register name symbol, expected Integer register
+main.s(51): warning: A1865W: '#' not seen before constant expression
+main.s(52): error: A1647E: Bad register name symbol, expected Integer register
+main.s(53): warning: A1865W: '#' not seen before constant expression
+main.s(54): error: A1647E: Bad register name symbol, expected Integer register
+main.s(55): warning: A1865W: '#' not seen before constant expression
+main.s(56): error: A1647E: Bad register name symbol, expected Integer register
+main.s(57): warning: A1865W: '#' not seen before constant expression
+main.s(72): error: A1647E: Bad register name symbol, expected Integer register
+main.s(73): error: A1647E: Bad register name symbol, expected Integer register
+main.s(74): error: A1647E: Bad register name symbol, expected Integer register
+main.s(78): error: A1647E: Bad register name symbol, expected Integer register
+main.s(80): error: A1647E: Bad register name symbol, expected Integer register
+main.s(82): error: A1647E: Bad register name symbol, expected Integer register
+main.s(83): error: A1647E: Bad register name symbol, expected Integer register
+main.s(84): error: A1647E: Bad register name symbol, expected Integer register
+main.s(85): error: A1647E: Bad register name symbol, expected Integer register
+main.s(87): error: A1647E: Bad register name symbol, expected Integer register
+main.s(88): error: A1647E: Bad register name symbol, expected Integer register
+main.s(89): error: A1647E: Bad register name symbol, expected Integer register
+main.s(91): error: A1647E: Bad register name symbol, expected Integer register
+main.s(92): error: A1647E: Bad register name symbol, expected Integer register
+main.s(93): error: A1647E: Bad register name symbol, expected Integer register
+main.s(95): error: A1647E: Bad register name symbol, expected Integer register
+main.s(96): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 34 Errors, 6 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(11): error: A1163E: Unknown opcode DIGIT_1 , expecting opcode or Macro
+main.s(12): error: A1163E: Unknown opcode DIGIT_2 , expecting opcode or Macro
+main.s(13): error: A1163E: Unknown opcode DIGIT_3 , expecting opcode or Macro
+main.s(14): error: A1163E: Unknown opcode CURRENT_DIGIT , expecting opcode or Macro
+main.s(15): error: A1163E: Unknown opcode CYCLES , expecting opcode or Macro
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(30): error: A1647E: Bad register name symbol, expected Integer register
+main.s(31): error: A1647E: Bad register name symbol, expected Integer register
+main.s(32): error: A1647E: Bad register name symbol, expected Integer register
+main.s(33): error: A1647E: Bad register name symbol, expected Integer register
+main.s(34): error: A1647E: Bad register name symbol, expected Integer register
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1482E: Shift option out of range, allowable values are from 1 to 32
+main.s(50): error: A1647E: Bad register name symbol, expected Integer register
+main.s(52): error: A1647E: Bad register name symbol, expected Integer register
+main.s(53): warning: A1865W: '#' not seen before constant expression
+main.s(54): error: A1647E: Bad register name symbol, expected Integer register
+main.s(55): warning: A1865W: '#' not seen before constant expression
+main.s(56): error: A1647E: Bad register name symbol, expected Integer register
+main.s(57): warning: A1865W: '#' not seen before constant expression
+main.s(72): error: A1647E: Bad register name symbol, expected Integer register
+main.s(73): error: A1647E: Bad register name symbol, expected Integer register
+main.s(74): error: A1647E: Bad register name symbol, expected Integer register
+main.s(78): error: A1647E: Bad register name symbol, expected Integer register
+main.s(80): error: A1647E: Bad register name symbol, expected Integer register
+main.s(85): error: A1647E: Bad register name symbol, expected Integer register
+main.s(87): error: A1647E: Bad register name symbol, expected Integer register
+main.s(88): error: A1647E: Bad register name symbol, expected Integer register
+main.s(89): error: A1647E: Bad register name symbol, expected Integer register
+main.s(91): error: A1647E: Bad register name symbol, expected Integer register
+main.s(92): error: A1647E: Bad register name symbol, expected Integer register
+main.s(93): error: A1647E: Bad register name symbol, expected Integer register
+main.s(95): error: A1647E: Bad register name symbol, expected Integer register
+main.s(96): error: A1647E: Bad register name symbol, expected Integer register
+".\ARM.axf" - 29 Errors, 5 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(110): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(112): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(112): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(117): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(117): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=560 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(22): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(116): warning: A1581W: Added 2 bytes of padding at address 0x106
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=564 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(70): error: A1647E: Bad register name symbol, expected Integer register
+main.s(71): warning: A1313W: Missing END directive at end of file
+".\ARM.axf" - 1 Errors, 2 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\ARM.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(82): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(85): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(19): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(85): warning: A1581W: Added 2 bytes of padding at address 0xc2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=496 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(102): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(102): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(102): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(102): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(102): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=548 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(104): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf6
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): error: A1163E: Unknown opcode ENDs , expecting opcode or Macro
+main.s(110): warning: A1313W: Missing END directive at end of file
+".\ARM.axf" - 1 Errors, 2 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=540 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=540 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=540 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1608W: MOV pc,<rn> instruction used, but BX <rn> is preferred
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\ARM.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(18): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1608W: MOV pc,<rn> instruction used, but BX <rn> is preferred
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\ARM.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling main.s...
+main.s(20): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+main.s(109): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+linking...
+.\ARM.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM.axf" - 0 Errors, 1 Warning(s).

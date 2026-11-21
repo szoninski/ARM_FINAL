@@ -1,0 +1,162 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\szoninski\Desktop\ARM\main.uvproj
+Project File Date:  <unknown>
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+assembling 6_LPC213x.s...
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+..\..\Downloads\5_kolokwium_skeleton.s(10): error: A1163E: Unknown opcode main_loop , expecting opcode or Macro
+".\main.axf" - 2 Errors, 0 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 6_LPC213x.s...
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(10): error: A1163E: Unknown opcode main_loop , expecting opcode or Macro
+".\main.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+linking...
+.\main.axf: Error: L6204E: Entry point (0x00000110) does not point to an instruction.
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+".\main.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(14): error: A1106E: Missing comma
+..\..\Downloads\5_kolokwium_skeleton.s(15): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\main.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(14): error: A1106E: Missing comma
+..\..\Downloads\5_kolokwium_skeleton.s(15): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\main.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(15): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=376 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=376 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+..\..\Downloads\5_kolokwium_skeleton.s(38): error: A1163E: Unknown opcode r5, , expecting opcode or Macro
+..\..\Downloads\5_kolokwium_skeleton.s(39): error: A1163E: Unknown opcode r4, , expecting opcode or Macro
+..\..\Downloads\5_kolokwium_skeleton.s(40): error: A1163E: Unknown opcode r4, , expecting opcode or Macro
+".\main.axf" - 3 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+..\..\Downloads\5_kolokwium_skeleton.s(38): error: A1163E: Unknown opcode R5, , expecting opcode or Macro
+..\..\Downloads\5_kolokwium_skeleton.s(39): error: A1163E: Unknown opcode R4, , expecting opcode or Macro
+..\..\Downloads\5_kolokwium_skeleton.s(40): error: A1163E: Unknown opcode R4, , expecting opcode or Macro
+".\main.axf" - 3 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=428 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+..\..\Downloads\5_kolokwium_skeleton.s(75): warning: A1581W: Added 2 bytes of padding at address 0x9a
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=452 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+".\main.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(17): warning: A1876W: Use of '|' as a synonym for the :OR: operator is deprecated.
+..\..\Downloads\5_kolokwium_skeleton.s(98): warning: A1581W: Added 2 bytes of padding at address 0xf2
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=544 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 3 Warning(s).
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+..\..\Downloads\5_kolokwium_skeleton.s(2): error: A1023E: File "LPC213x.s" could not be opened: No such file or directory
+".\main.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'Target 1'
+assembling 5_kolokwium_skeleton.s...
+linking...
+.\main.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\main.axf" - 0 Errors, 1 Warning(s).
