@@ -15,14 +15,6 @@ DIGIT_2 RN R10
 DIGIT_3 RN R11
 
 
-; Setup IODIR0
-    LDR     R4, =IODIR0
-    LDR     R5, =(1<<16)|(1<<17)|(1<<18)|(1<<19)
-    STR     R5, [R4]
-; Setup IODIR1
-    LDR     R4, =IODIR1
-    LDR     R5, =(1<<16)|(1<<17)|(1<<18)|(1<<19)|(1<<20)|(1<<21)|(1<<22)|(1<<23)
-    STR     R5, [R4]
 
 	mov CURRENT_DIGIT, #0			
 	mov DIGIT_0, #0
