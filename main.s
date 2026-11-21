@@ -31,22 +31,20 @@ DIGIT_3 RN R11
 	mov DIGIT_3, #0
 
 MAIN_LOOP
-; Clear all digit
-	mov 	R5, #0xf0000
-	LDR     R4, =IOCLR0
-	STR     R5, [R4]
-
-; Clear all segments
-	mov 	R5, #0xFF0000
-	LDR     R4, =IOCLR1
-	STR     R5, [R4]
+; display cleanse
+	LDR R4, =IOCLR0
+	LDR R5, =(1<<16)|(1<<17)|(1<<18)|(1<<19)
+	STR R5, [R4]
+	
+	LDR R4, =IOCLR1
+	LDR R5, =(1<<16)|(1<<17)|(1<<18)|(1<<19)|(1<<20)|(1<<21)|(1<<22)|(1<<23)
+	STR R5, [R4]
 
 ; Set current digit
-	mov 	R6, #0x80000
+	mov 	R6, #(1<<19)
 	mov 	R5, R6, LSR CURRENT_DIGIT
 	LDR     R4, =IOSET0
 	STR     R5, [R4]
-	
 ; digit to 7 code
 	cmp 	CURRENT_DIGIT, #0
 	moveq 	R6, DIGIT_0
